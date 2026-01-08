@@ -1,0 +1,141 @@
+/* ===== MODE NOCTURNE ===== */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #121212;
+  color: #fff;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  background: #1e1e1e;
+  padding: 10px;
+  border-bottom: 1px solid #333;
+  z-index: 10;
+}
+
+/* Indicateur rouge */
+#time-indicator {
+  color: #ff5252;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+/* Titre du header */
+#header-title {
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+}
+
+/* Bouton réinitialiser */
+#reset-store {
+  background: #333;
+  color: #fff;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#reset-store:hover {
+  background: #555;
+}
+
+/* Filtres */
+#filters {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+#filters button {
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  background: #333;
+  color: #fff;
+  cursor: pointer;
+}
+
+#filters button:hover {
+  background: #555;
+}
+
+/* Timeline */
+#timeline {
+  padding-bottom: 40px;
+}
+
+/* ===== EVENTS ===== */
+.event {
+  background: #1e1e1e;
+  color: #fff;
+  margin: 10px;
+  padding: 12px;
+  border-radius: 6px;
+  transition: background 0.2s, opacity 0.2s;
+  touch-action: pan-y;
+}
+
+.event strong {
+  display: block;
+  font-size: 15px;
+}
+
+/* ===== TYPES ===== */
+.event.culture { border-left: 6px solid #4caf50; }       /* vert */
+.event.association { border-left: 6px solid #ff9800; }  /* orange */
+.event.sport { border-left: 6px solid #1976d2; }       /* bleu */
+.event.autre { border-left: 6px solid #757575; }        /* gris */
+
+/* ===== DUPLICATE ===== */
+.event.duplicate { opacity: 0.4; }
+
+/* ===== HIDDEN / ÉVÉNEMENTS PASSÉS ===== */
+.event.hidden {
+  opacity: 0.35;
+  padding: 8px 12px; /* plus grand pour voir le texte */
+}
+
+.event.hidden .distance,
+.event.hidden .location {
+  display: none; /* on cache seulement distance et localisation */
+}
+
+/* ===== DATE DE FIN POUR ÉVÉNEMENTS TERMINÉS ===== */
+.event .ended-date {
+  font-size: 10px;   /* lisible mais petit */
+  color: #aaa;
+  margin-top: 2px;
+}
+
+/* ===== DISTANCE ===== */
+.distance {
+  font-size: 11px;
+  color: #ccc;
+  margin-top: 4px;
+}
+
+/* ===== LOCALISATION ===== */
+.event .location {
+  display: block;
+  font-size: 10px;
+  color: #aaa;          /* clair pour fond sombre */
+  text-align: right;    /* bas droite */
+  margin-top: 2px;
+}
+
+/* ===== URL BOX ===== */
+.url-box {
+  margin-top: 6px;
+  font-size: 12px;
+  background: #333;
+  color: #fff;
+  padding: 6px;
+  user-select: text;
+  word-break: break-all;
+}

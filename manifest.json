@@ -1,0 +1,6 @@
+{
+  "name": "Fresque locale",
+  "short_name": "Fresque",
+  "start_url": "index.html",
+  "display": "standalone"
+}

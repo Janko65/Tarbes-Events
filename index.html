@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fresque événements</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <!-- Indicateur rouge -->
+    <div id="time-indicator">Aujourd’hui</div>
+
+    <!-- Titre (avant modification) -->
+    <div id="header-title" style="font-weight: 600; font-size: 18px; color: #fff;">
+      Tarbes
+    </div>
+
+    <!-- Bouton réinitialiser -->
+    <button id="reset-store">Réinitialiser</button>
+  </div>
+
+  <!-- Filtres -->
+  <div id="filters" style="margin-top: 8px;">
+    <button data-filter="all">Tous</button>
+    <button data-filter="culture">Culture</button>
+    <button data-filter="association">Association</button>
+    <button data-filter="sport">Sport</button>
+    <button data-filter="autre">Autre</button>
+  </div>
+</header>
+
+<main id="timeline"></main>
+
+<script src="app.js"></script>
+</body>
+</html>

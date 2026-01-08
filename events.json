@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Festival culturel de Tarbes",
+      "start": "2026-02-15",
+      "end": "2026-02-18",
+      "type": "culture",
+      "status": "pending",
+      "source": "https://example.com",
+		"location": "lieux precis"
+      "duplicate": false
+    }
+  ]
+}
