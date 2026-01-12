@@ -491,6 +491,91 @@
     "source": "https://pirineoscup.com/wp-content/uploads/2025/09/Pyrenees-Cup-2026-FR.pdf",
     "location": "Hautes-Pyrénées (sites multiples)",
     "duplicate": false
+  },
+  {
+    "id": "42",
+    "title": "Stado Tarbes Pyrénées Rugby vs Niort Rugby",
+    "start": "2025-10-31",
+    "end": "2025-10-31",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://jds.fr Tarbes Rugby Stado-TPR-Niort",
+    "location": "Stade Maurice Trélut, Tarbes",
+    "duplicate": false
+  },
+  {
+    "id": "43",
+    "title": "RC Narbonnais XV vs Stado Tarbes Pyrénées Rugby",
+    "start": "2025-10-18",
+    "end": "2025-10-18",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://audetourisme.com Rugby Narbonnais vs Stado Tarbes",
+    "location": "Parc des Sports et de l’Amitié, Narbonne",
+    "duplicate": false
+  },
+  {
+    "id": "44",
+    "title": "Stado Tarbes Pyrénées Rugby vs Suresnes",
+    "start": "2026-01-09",
+    "end": "2026-01-09",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://jds.fr Tarbes Rugby Stado-TPR-Suresnes",
+    "location": "Stade Maurice Trélut, Tarbes",
+    "duplicate": false
+  },
+  {
+    "id": "45",
+    "title": "Stado Tarbes Pyrénées Rugby vs US Bressane",
+    "start": "2026-01-23",
+    "end": "2026-01-23",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://jds.fr Tarbes Rugby Stado-TPR-Bourg-en-Bresse",
+    "location": "Stade Maurice Trélut, Tarbes",
+    "duplicate": false
+  },
+  {
+    "id": "46",
+    "title": "CS Bourgoin-Jallieu vs Stado Tarbes Pyrénées Rugby",
+    "start": "2026-01-31",
+    "end": "2026-01-31",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://monclubhouse.ffr.fr Stado TPR schedule",
+    "location": "Stade Maurice Trélut, Tarbes",
+    "duplicate": false
+  },
+  {
+    "id": "47",
+    "title": "Stado Tarbes Pyrénées Rugby vs Olympique Marcquois Rugby",
+    "start": "2026-02-13",
+    "end": "2026-02-13",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://monclubhouse.ffr.fr Stado TPR schedule",
+    "location": "Stade Maurice Trélut, Tarbes",
+    "duplicate": false
+  },
+  {
+    "id": "48",
+    "title": "Stado Tarbes Pyrénées Rugby vs CA Périgueux",
+    "start": "2026-02-19",
+    "end": "2026-02-19",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://monclubhouse.ffr.fr Stado TPR schedule",
+    "location": "Stade Maurice Trélut, Tarbes",
+    "duplicate": false
   }
+]
 ]
 }
