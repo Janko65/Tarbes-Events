@@ -407,6 +407,90 @@
       "source": "https://www.tarbes-tourisme.fr/en/the-full-events-calendar/festivals-fairs-trade-shows/",
       "location": "Halle Marcadieu, Tarbes",
       "duplicate": false
-    }
-  ]
+    },
+  {
+    "id": "35",
+    "title": "Tournoi de rugby U12 / U14 – Bagnères-de-Bigorre",
+    "start": "2026-05-01",
+    "end": "2026-05-01",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://unidivers.fr/event/tournoi-de-rugby-du-1er-mai-bagneres-de-bigorre-hautes-pyrenees-2026-05-01/",
+    "location": "Place Charles Lacoste, Bagnères-de-Bigorre",
+    "duplicate": false
+  },
+  {
+    "id": "36",
+    "title": "Match FC Lourdais Rugby vs Peyrehorade Sports Rugby",
+    "start": "2026-01-18",
+    "end": "2026-01-18",
+    "distance": 18,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://alentoor.fr/tarbes/agenda/sport",
+    "location": "Stade Antoine Béguère, Lourdes",
+    "duplicate": false
+  },
+  {
+    "id": "37",
+    "title": "Match FC Lourdais Rugby vs AS Layracaise",
+    "start": "2026-02-08",
+    "end": "2026-02-08",
+    "distance": 18,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://alentoor.fr/tarbes/agenda/sport",
+    "location": "Stade Antoine Béguère, Lourdes",
+    "duplicate": false
+  },
+  {
+    "id": "38",
+    "title": "Match amical FC Lourdais XV vs US Bergeracoise Vallée Dordogne",
+    "start": "2026-02-15",
+    "end": "2026-02-15",
+    "distance": 18,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://alentoor.fr/tarbes/agenda/sport",
+    "location": "Stade Antoine Béguère, Lourdes",
+    "duplicate": false
+  },
+  {
+    "id": "39",
+    "title": "Match FC Lourdais Rugby vs AS Soustons",
+    "start": "2026-03-08",
+    "end": "2026-03-08",
+    "distance": 18,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://alentoor.fr/tarbes/agenda/sport",
+    "location": "Stade Antoine Béguère, Lourdes",
+    "duplicate": false
+  },
+  {
+    "id": "40",
+    "title": "Match FC Lourdais Rugby vs 4 Cantons Bastides Haut Agenais Périgord",
+    "start": "2026-03-29",
+    "end": "2026-03-29",
+    "distance": 18,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://alentoor.fr/tarbes/agenda/sport",
+    "location": "Stade Antoine Béguère, Lourdes",
+    "duplicate": false
+  },
+  {
+    "id": "41",
+    "title": "Pyrénées Cup Jeunes Rugby (Tournoi multi-catégories)",
+    "start": "2026-06-25",
+    "end": "2026-06-28",
+    "distance": 0,
+    "type": "sport",
+    "status": "pending",
+    "source": "https://pirineoscup.com/wp-content/uploads/2025/09/Pyrenees-Cup-2026-FR.pdf",
+    "location": "Hautes-Pyrénées (sites multiples)",
+    "duplicate": false
+  }
+]
 }
