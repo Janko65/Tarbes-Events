@@ -1,5 +1,77 @@
 {
   "events": [
+  {
+    "id": "49",
+    "title": "Fête locale de Sarriac-Bigorre",
+    "start": "2025-08-08",
+    "end": "2025-08-11",
+    "distance": 0,
+    "type": "culture",
+    "status": "pending",
+    "source": "https://www.jds.fr/tarbes/manifestations/fete-locale-1024607_A",
+    "location": "Sarriac-Bigorre, Hautes-Pyrénées",
+    "duplicate": false
+  },
+  {
+    "id": "50",
+    "title": "Fête du village de Peyraube",
+    "start": "2025-08-08",
+    "end": "2025-08-11",
+    "distance": 0,
+    "type": "culture",
+    "status": "pending",
+    "source": "https://www.ladepeche.fr/2025/08/06/dune-info-a-lautre-les-fetes-des-villages-12862312.php",
+    "location": "Peyraube, Hautes-Pyrénées",
+    "duplicate": false
+  },
+  {
+    "id": "51",
+    "title": "Fête locale de Vielle-Aure",
+    "start": "2025-07-27",
+    "end": "2025-07-27",
+    "distance": 0,
+    "type": "culture",
+    "status": "pending",
+    "source": "https://www.fest.fr/fete-locale-du-village-2208821.html",
+    "location": "Vielle-Aure, Hautes-Pyrénées",
+    "duplicate": false
+  },
+  {
+    "id": "52",
+    "title": "Fêtes de Siarrouy",
+    "start": "2025-09-26",
+    "end": "2025-09-28",
+    "distance": 0,
+    "type": "culture",
+    "status": "pending",
+    "source": "https://www.nrpyrenees.fr/2025/09/23/trois-jours-de-festivites-au-village-12947014.php",
+    "location": "Siarrouy, Hautes-Pyrénées",
+    "duplicate": false
+  },
+  {
+    "id": "53",
+    "title": "Feu de la Saint-Jean à Ilhet",
+    "start": "2026-06-24",
+    "end": "2026-06-24",
+    "distance": 0,
+    "type": "culture",
+    "status": "pending",
+    "source": "https://www.journee-mondiale.com/ce-village-des-hautes-pyrenees-defie-le-temps-depuis-plus-de-1000-ans-7463.htm",
+    "location": "Ilhet, Hautes-Pyrénées",
+    "duplicate": false
+  },
+  {
+    "id": "54",
+    "title": "Fête de la Pomme à Ilhet",
+    "start": "2026-10-01",
+    "end": "2026-10-01",
+    "distance": 0,
+    "type": "culture",
+    "status": "pending",
+    "source": "https://www.journee-mondiale.com/ce-village-des-hautes-pyrenees-defie-le-temps-depuis-plus-de-1000-ans-7463.htm",
+    "location": "Ilhet, Hautes-Pyrénées",
+    "duplicate": false
+  },
     {
       "id": "1",
       "title": "Vœux aux Séniors",
