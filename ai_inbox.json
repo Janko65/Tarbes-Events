@@ -647,6 +647,138 @@
     "source": "https://www.journee-mondiale.com/ce-village-des-hautes-pyrenees-defie-le-temps-depuis-plus-de-1000-ans-7463.htm",
     "location": "Ilhet, Hautes-Pyrénées",
     "duplicate": false
-  }
+  },
+    {
+  "id": "55",
+  "title": "Festival Retro Piau – DJ Diva animation musicale",
+  "start": "2026-02-26",
+  "end": "2026-02-26",
+  "distance": 85,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.tourisme-occitanie.com/fr/fiche/fete-et-manifestation/festival-retro-piau-dj-diva-animation-musicale-26022026-aragnouet_TFOFMAMIP065V52LAM2/?utm_source=chatgpt.com",
+  "location": "Aragnouet",
+  "duplicate": false
+},
+{
+  "id": "56",
+  "title": "Pyrénées Louron Air Festival",
+  "start": "2026-05-14",
+  "end": "2026-05-17",
+  "distance": 76,
+  "type": "autre",
+  "status": "pending",
+  "source": "https://www.vallee-du-louron.com/fr/evenements/pyrenees-louron-air-festival?utm_source=chatgpt.com",
+  "location": "Loudenvielle",
+  "duplicate": false
+},
+{
+  "id": "57",
+  "title": "Concert avec Nadau à Capvern",
+  "start": "2026-02-14",
+  "end": "2026-02-14",
+  "distance": 34,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://unidivers.fr/event/concert-avec-nadau-capvern-hautes-pyrenees-2026-02-14/?utm_source=chatgpt.com",
+  "location": "Capvern",
+  "duplicate": false
+},
+{
+  "id": "58",
+  "title": "Fête des Marmottes",
+  "start": "2026-02-22",
+  "end": "2026-02-22",
+  "distance": 85,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.flanerbouger.fr/events/fetes-locales/65170-fete-des-marmottes-aragnouet-100408703?utm_source=chatgpt.com",
+  "location": "Aragnouet",
+  "duplicate": false
+},
+{
+  "id": "59",
+  "title": "Alamzic Reggae Night #14",
+  "start": "2026-02-21",
+  "end": "2026-02-22",
+  "distance": 21,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.fest.fr/agenda/hautes-pyrenees/concerts-et-musique?utm_source=chatgpt.com",
+  "location": "Bagnères-de-Bigorre",
+  "duplicate": false
+},
+{
+  "id": "60",
+  "title": "Fanfare à la neige – The Bawling Cats / New Little Fanfare / Ti Brass",
+  "start": "2026-01-10",
+  "end": "2026-03-31",
+  "distance": 103,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.fest.fr/agenda/hautes-pyrenees/concerts-et-musique?utm_source=chatgpt.com",
+  "location": "Saint-Lary-Soulan / Pla d’Adet",
+  "duplicate": false
+},
+{
+  "id": "61",
+  "title": "Festival du Lien",
+  "start": "2026-07-06",
+  "end": "2026-07-06",
+  "distance": 8,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.hautespyrenees.fr/actualite/qualite-de-vie/festival-du-lien-dimanche-6-juillet/?utm_source=chatgpt.com",
+  "location": "Ibos",
+  "duplicate": false
+},
+{
+  "id": "62",
+  "title": "Pyrénées Bike Festival",
+  "start": "2026-05-28",
+  "end": "2026-05-31",
+  "distance": 76,
+  "type": "sport",
+  "status": "pending",
+  "source": "https://www.jds.fr/hautes-pyrenees/agenda/festival-269_B?utm_source=chatgpt.com",
+  "location": "Loudenvielle",
+  "duplicate": false
+},
+{
+  "id": "63",
+  "title": "Festival « Du Flocon à la Vague »",
+  "start": "2026-04-03",
+  "end": "2026-04-05",
+  "distance": 103,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.jds.fr/hautes-pyrenees/agenda/festival-269_B?utm_source=chatgpt.com",
+  "location": "Saint-Lary-Soulan",
+  "duplicate": false
+},
+{
+  "id": "64",
+  "title": "Foire aux traditions pyrénéennes",
+  "start": "2026-08-23",
+  "end": "2026-08-23",
+  "distance": 76,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.jds.fr/concerts/foire-aux-traditions-pyreneennes-1313115_A?utm_source=chatgpt.com",
+  "location": "Loudenvielle",
+  "duplicate": false
+},
+{
+  "id": "65",
+  "title": "Fête franco-aragonaise de Saint-Lary-Soulan",
+  "start": "2026-08-01",
+  "end": "2026-08-02",
+  "distance": 103,
+  "type": "culture",
+  "status": "pending",
+  "source": "https://www.flanerbouger.fr/events/fetes-locales/65170-fete-franco-aragonaise-saint-lary-soulan-449770?utm_source=chatgpt.com",
+  "location": "Saint-Lary-Soulan",
+  "duplicate": false
+}
 ]
 }
